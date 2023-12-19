@@ -1,0 +1,5 @@
+{"level":30,"time":"2023-12-07T16:57:27.716Z","pid":5804,"hostname":"DESKTOP-NAGA30U","msg":"Listening on 56696"}
+{"level":30,"time":"2023-12-07T16:57:28.285Z","pid":5804,"hostname":"DESKTOP-NAGA30U","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T16:57:28.286Z","pid":5804,"hostname":"DESKTOP-NAGA30U","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T16:57:28.301Z","pid":5804,"hostname":"DESKTOP-NAGA30U","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T16:57:28.302Z","pid":5804,"hostname":"DESKTOP-NAGA30U","msg":"End of node method getBrowserCatalog"}
